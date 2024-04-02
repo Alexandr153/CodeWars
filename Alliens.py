@@ -4,6 +4,7 @@ def f(num):
     else:
         return True
 
+
 def decode(m):
     m = m.split(m[0])
     m = list(filter(f, m))
