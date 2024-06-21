@@ -1,7 +1,7 @@
 from math import sqrt, pow
 
 
-def list_squared(m: int, n: int) -> [int]:
+def list_squared(m: int, n: int) -> [[int, int]]:
     sortList: list = []
     for i in range(m, n+1):
         temp: list = []

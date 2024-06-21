@@ -4,38 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="Пользователь 2 завершил работу и отправил на проверку">
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="Rework with task">
+      <change afterPath="$PROJECT_DIR$/Most frequently used words in a text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Printer Errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Printer Errors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integers Recrecation One.py" beforeDir="false" afterPath="$PROJECT_DIR$/Integers Recrecation One.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop2" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Alexandr153"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alexandr153&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="d61dee74-aad3-4f92-ae59-ea39468cf3e5" />
-        <option name="url" value="https://github.com/Alexandr153/CodeWars.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alexandr153/CodeWars.git&quot;,
+    &quot;accountId&quot;: &quot;d61dee74-aad3-4f92-ae59-ea39468cf3e5&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -49,15 +58,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Integers Recrecation One.executor": "Run",
+    "Python.Integers: Recrecation One.executor": "Run",
+    "Python.Most frequently used words in a text.executor": "Run",
+    "Python.tests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -110,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712587822198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Complete new task 5 kat">
+      <option name="closed" value="true" />
+      <created>1716397571857</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716397571857</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Rework with task">
+      <option name="closed" value="true" />
+      <created>1716398747743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716398747743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,19 +147,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/develop" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -145,6 +162,8 @@
     <MESSAGE value="Проверка работоспособности бренчей номер 2" />
     <MESSAGE value="Пользователь 1 завершил работу и отправил на проверку" />
     <MESSAGE value="Пользователь 2 завершил работу и отправил на проверку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пользователь 2 завершил работу и отправил на проверку" />
+    <MESSAGE value="Complete new task 5 kat" />
+    <MESSAGE value="Rework with task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rework with task" />
   </component>
 </project>
