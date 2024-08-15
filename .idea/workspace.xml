@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+2 проекта">
-      <change afterPath="$PROJECT_DIR$/Is a number prime?.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Short Long Short.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Take a Ten Minutes Walk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,18 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Integers Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integers: Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Most frequently used words in a text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Short Long Short.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Integers Recrecation One.executor": "Run",
+    "Python.Integers: Recrecation One.executor": "Run",
+    "Python.Most frequently used words in a text.executor": "Run",
+    "Python.Short Long Short.executor": "Run",
+    "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718991510817</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="+2 проекта">
+      <option name="closed" value="true" />
+      <created>1723748588161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723748588161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
