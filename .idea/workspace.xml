@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+2 проекта">
-      <change afterPath="$PROJECT_DIR$/Take a Ten Minutes Walk.py" afterDir="false" />
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
+      <change afterPath="$PROJECT_DIR$/Bouncing Balls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723748588161</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1723751840735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723751840735</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +186,7 @@
     <MESSAGE value="Complete new task 5 kat" />
     <MESSAGE value="Rework with task" />
     <MESSAGE value="+2 проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="+2 проекта" />
+    <MESSAGE value="+1 задача" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1 задача" />
   </component>
 </project>
