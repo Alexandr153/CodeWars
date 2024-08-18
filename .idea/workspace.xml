@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
-      <change afterPath="$PROJECT_DIR$/Remove exclamation marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Count IP Addresses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Count IP Addresses.executor": "Run",
     "Python.Integers Recrecation One.executor": "Run",
     "Python.Integers: Recrecation One.executor": "Run",
     "Python.Most frequently used words in a text.executor": "Run",
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723885677976</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1723995113831</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723995113831</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
