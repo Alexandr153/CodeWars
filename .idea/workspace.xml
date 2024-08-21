@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
-      <change afterPath="$PROJECT_DIR$/Count IP Addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner - Lost Without a Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiples of 3 or 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +54,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Beginner - Lost Without a Map.executor": "Run",
     "Python.Count IP Addresses.executor": "Run",
+    "Python.How many are smaller than me II?.executor": "Run",
     "Python.Integers Recrecation One.executor": "Run",
     "Python.Integers: Recrecation One.executor": "Run",
     "Python.Most frequently used words in a text.executor": "Run",
+    "Python.Multiples of 3 or 5.executor": "Run",
     "Python.Remove exclamation marks.executor": "Run",
     "Python.Short Long Short.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
@@ -178,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723995113831</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1723999544356</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723999544356</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
