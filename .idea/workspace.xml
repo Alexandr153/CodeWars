@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
-      <change afterPath="$PROJECT_DIR$/Who likes it?.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Disemvowel Trolls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alliens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alliens.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   "keyToString": {
     "Python.Beginner - Lost Without a Map.executor": "Run",
     "Python.Count IP Addresses.executor": "Run",
+    "Python.Disemvowel Trolls.executor": "Run",
     "Python.How many are smaller than me II?.executor": "Run",
     "Python.Integers Recrecation One.executor": "Run",
     "Python.Integers: Recrecation One.executor": "Run",
@@ -198,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724254033263</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1724341235538</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724341235538</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,8 +234,8 @@
     <MESSAGE value="Complete new task 5 kat" />
     <MESSAGE value="Rework with task" />
     <MESSAGE value="+2 проекта" />
-    <MESSAGE value="+1 задача" />
     <MESSAGE value="+2 задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="+2 задачи" />
+    <MESSAGE value="+1 задача" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1 задача" />
   </component>
 </project>
