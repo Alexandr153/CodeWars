@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,28 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Beginner - Lost Without a Map.executor": "Run",
-    "Python.Count IP Addresses.executor": "Run",
-    "Python.Disemvowel Trolls.executor": "Run",
-    "Python.Does my number look big in this?.executor": "Run",
-    "Python.How many are smaller than me II?.executor": "Run",
-    "Python.Integers Recrecation One.executor": "Run",
-    "Python.Integers: Recrecation One.executor": "Run",
-    "Python.Isograms.executor": "Run",
-    "Python.Most frequently used words in a text.executor": "Run",
-    "Python.Multiples of 3 or 5.executor": "Run",
-    "Python.Remove exclamation marks.executor": "Run",
-    "Python.Short Long Short.executor": "Run",
-    "Python.Take a Ten Minutes Walk.executor": "Run",
-    "Python.Who likes it?.executor": "Run",
-    "Python.tests.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Beginner - Lost Without a Map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count IP Addresses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Disemvowel Trolls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Does my number look big in this?.executor&quot;: &quot;Run&quot;,
+    &quot;Python.How many are smaller than me II?.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Integers Recrecation One.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Integers: Recrecation One.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Isograms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Most frequently used words in a text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiples of 3 or 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Remove exclamation marks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Short Long Short.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Who likes it?.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -240,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724690908994</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <option name="closed" value="true" />
+      <created>1724755815290</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724755815290</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +274,7 @@
     <MESSAGE value="+2 проекта" />
     <MESSAGE value="+2 задачи" />
     <MESSAGE value="+1 задача" />
-    <option name="LAST_COMMIT_MESSAGE" value="+1 задача" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
