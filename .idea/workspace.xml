@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="test" />
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+2 задачи">
+      <change afterPath="$PROJECT_DIR$/Create Phone Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Alexandr153/CodeWars.git&quot;,
-    &quot;accountId&quot;: &quot;d61dee74-aad3-4f92-ae59-ea39468cf3e5&quot;
+    &quot;accountId&quot;: &quot;6102db18-1f26-49c4-9b5c-b772289cb17b&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -48,32 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Beginner - Lost Without a Map.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count IP Addresses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Disemvowel Trolls.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Does my number look big in this?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.How many are smaller than me II?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integers Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integers: Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Isograms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Most frequently used words in a text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Multiples of 3 or 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Remove exclamation marks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Short Long Short.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Who likes it?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Beginner - Lost Without a Map.executor": "Run",
+    "Python.Count IP Addresses.executor": "Run",
+    "Python.Create Phone Number.executor": "Run",
+    "Python.Descending Order.executor": "Run",
+    "Python.Disemvowel Trolls.executor": "Run",
+    "Python.Does my number look big in this?.executor": "Run",
+    "Python.Duplicate Encoder.executor": "Run",
+    "Python.How many are smaller than me II?.executor": "Run",
+    "Python.Integers Recrecation One.executor": "Run",
+    "Python.Integers: Recrecation One.executor": "Run",
+    "Python.Isograms.executor": "Run",
+    "Python.Most frequently used words in a text.executor": "Run",
+    "Python.Multiples of 3 or 5.executor": "Run",
+    "Python.Remove exclamation marks.executor": "Run",
+    "Python.Short Long Short.executor": "Run",
+    "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.Who likes it?.executor": "Run",
+    "Python.tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
       </set>
     </attachedChunks>
   </component>
@@ -246,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724755815290</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="+2 задачи">
+      <option name="closed" value="true" />
+      <created>1724783373438</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724783373438</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,9 +286,9 @@
     <MESSAGE value="Complete new task 5 kat" />
     <MESSAGE value="Rework with task" />
     <MESSAGE value="+2 проекта" />
-    <MESSAGE value="+2 задачи" />
     <MESSAGE value="+1 задача" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="+2 задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="+2 задачи" />
   </component>
 </project>
