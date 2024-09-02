@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+2 задачи">
-      <change afterPath="$PROJECT_DIR$/Create Phone Number.py" afterDir="false" />
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1 задача">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724783373438</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1724931189475</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724931189475</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,9 +293,9 @@
     <MESSAGE value="Complete new task 5 kat" />
     <MESSAGE value="Rework with task" />
     <MESSAGE value="+2 проекта" />
-    <MESSAGE value="+1 задача" />
     <MESSAGE value="test" />
     <MESSAGE value="+2 задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="+2 задачи" />
+    <MESSAGE value="+1 задача" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1 задача" />
   </component>
 </project>
