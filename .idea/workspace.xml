@@ -69,6 +69,7 @@
     "Python.Short Long Short.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Who likes it?.executor": "Run",
+    "Python.You Can't Code Under Pressure #1.executor": "Run",
     "Python.tests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -267,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724931189475</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="+1 задача">
+      <option name="closed" value="true" />
+      <created>1725289216270</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725289216270</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
