@@ -5,5 +5,3 @@ def spin_words(sentence: str) -> str:
             sentence[i] = ''.join(reversed(k))
 
     return ' '.join(sentence)
-
-
