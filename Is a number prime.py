@@ -10,4 +10,3 @@ def is_prime(num: int) -> bool:
                 return True
             if num % i == 0 and i != 1:
                 return False
-
