@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/Heads and Legs.py" afterDir="false" />
+    <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1">
+      <change afterPath="$PROJECT_DIR$/Highest Scoring Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,41 +52,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Beginner - Lost Without a Map.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bit Counting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count IP Addresses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Create Phone Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Descending Order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Disemvowel Trolls.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Does my number look big in this?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Duplicate Encoder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find the next perfect square!.executor&quot;: &quot;Run&quot;,
-    &quot;Python.How many are smaller than me II?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integers Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Integers: Recrecation One.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Isograms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Most frequently used words in a text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Multiples of 3 or 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Remove exclamation marks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Short Long Short.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sort the odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Stop gninnipS My sdroW!.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tribonacci Sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Who likes it?.executor&quot;: &quot;Run&quot;,
-    &quot;Python.You Can't Code Under Pressure #1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Beginner - Lost Without a Map.executor": "Run",
+    "Python.Bit Counting.executor": "Run",
+    "Python.Count IP Addresses.executor": "Run",
+    "Python.Create Phone Number.executor": "Run",
+    "Python.Descending Order.executor": "Run",
+    "Python.Directions Reduction.executor": "Debug",
+    "Python.Disemvowel Trolls.executor": "Run",
+    "Python.Does my number look big in this?.executor": "Run",
+    "Python.Duplicate Encoder.executor": "Run",
+    "Python.Find the next perfect square!.executor": "Run",
+    "Python.Growth of a Population.executor": "Run",
+    "Python.How many are smaller than me II?.executor": "Run",
+    "Python.Integers Recrecation One.executor": "Run",
+    "Python.Integers: Recrecation One.executor": "Run",
+    "Python.Isograms.executor": "Run",
+    "Python.Most frequently used words in a text.executor": "Run",
+    "Python.Multiples of 3 or 5.executor": "Run",
+    "Python.Remove exclamation marks.executor": "Run",
+    "Python.Short Long Short.executor": "Run",
+    "Python.Simple Fun #148: Exchange Sort.executor": "Run",
+    "Python.Sort the odd.executor": "Run",
+    "Python.Stop gninnipS My sdroW!.executor": "Run",
+    "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.Tribonacci Sequence.executor": "Run",
+    "Python.Who likes it?.executor": "Run",
+    "Python.You Can't Code Under Pressure #1.executor": "Run",
+    "Python.random_matrix.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -394,7 +400,47 @@
       <option name="project" value="LOCAL" />
       <updated>1729519721077</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="+1">
+      <option name="closed" value="true" />
+      <created>1730738650579</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730738650579</updated>
+    </task>
+    <task id="LOCAL-00039" summary="работа над 4 катой">
+      <option name="closed" value="true" />
+      <created>1732801261305</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1732801261305</updated>
+    </task>
+    <task id="LOCAL-00040" summary="4 ката решена">
+      <option name="closed" value="true" />
+      <created>1732810096335</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1732810096335</updated>
+    </task>
+    <task id="LOCAL-00041" summary="-">
+      <option name="closed" value="true" />
+      <created>1734115597967</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1734115597967</updated>
+    </task>
+    <task id="LOCAL-00042" summary="+1">
+      <option name="closed" value="true" />
+      <created>1735151217883</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1735151217883</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +469,17 @@
     <MESSAGE value="test" />
     <MESSAGE value="+2 задачи" />
     <MESSAGE value="+1 задача" />
+    <MESSAGE value="работа над 4 катой" />
+    <MESSAGE value="4 ката решена" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="+1" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sequenceCopy[k] == 9" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
