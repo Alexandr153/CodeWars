@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1">
-      <change afterPath="$PROJECT_DIR$/Highest Scoring Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Split Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,7 @@
     "Python.Short Long Short.executor": "Run",
     "Python.Simple Fun #148: Exchange Sort.executor": "Run",
     "Python.Sort the odd.executor": "Run",
+    "Python.Split Strings.executor": "Run",
     "Python.Stop gninnipS My sdroW!.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Tribonacci Sequence.executor": "Run",
@@ -440,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735151217883</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="+1">
+      <option name="closed" value="true" />
+      <created>1739653076914</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1739653076914</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
