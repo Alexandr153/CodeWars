@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d849b7ad-9120-45d1-9555-efdf01ea916e" name="Changes" comment="+1">
-      <change afterPath="$PROJECT_DIR$/Split Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Positions Average.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
     "Python.Isograms.executor": "Run",
     "Python.Most frequently used words in a text.executor": "Run",
     "Python.Multiples of 3 or 5.executor": "Run",
+    "Python.Positions Average.executor": "Run",
     "Python.Remove exclamation marks.executor": "Run",
     "Python.Short Long Short.executor": "Run",
     "Python.Simple Fun #148: Exchange Sort.executor": "Run",
@@ -448,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739653076914</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="+1">
+      <option name="closed" value="true" />
+      <created>1740470567018</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1740470567019</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
